@@ -3,4 +3,10 @@ form {
   padding: 2rem;
   background: hsl(264 30% 96%);
   border-radius: 8px;
+  display: grid;
+  gap: 10px;
+}
+
+.email {
+  padding: 20px;
 }
